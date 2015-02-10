@@ -1,2 +1,7 @@
 # HW2_sara_barrett
-HW2, BIOST 578A
+
+Homework #2, BIOST 578A, Winter 2015
+
+Reviewer: Benjamin Fu
+
+Group: 2
