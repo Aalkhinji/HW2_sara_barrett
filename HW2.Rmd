@@ -70,4 +70,5 @@ gse_gplDT <- data.table(dbGetQuery(geo_con, "SELECT * from gse_gpl;"), key=c("gs
 ```{r}
 merge(gplDT,gse_gplDT[gseDT],by="gpl")
 ```
+Aisha Alkhinji
 I think this is very neat to merge 3 data table after assigning each with different names.
